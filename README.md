@@ -68,6 +68,11 @@ zf_portal_agent/
 - Pandas (Análise de dados)
 - Selenium (Automação web)
 
+## Política de Privacidade
+
+Nossa política de privacidade está disponível em:
+https://danielsmartaccess.github.io/bocao/privacy-policy.html
+
 ## Próximos Passos
 
 1. Configurar banco de dados
